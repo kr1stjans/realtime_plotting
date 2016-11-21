@@ -1,1677 +1,613 @@
-Executing before-prepare hook from /Users/kristjans/Development/rhythmChaser/hooks/before-prepare/nativescript-dev-typescript.js
-Found peer TypeScript 2.0.9
-Project successfully prepared (ios)
-Executing before-livesync hook from /Users/kristjans/Development/rhythmChaser/hooks/before-livesync/nativescript-angular-sync.js
-Transferring project files...
-Successfully transferred all files.
-Applying changes...
-Successfully synced application kristjansesek on device c5af429c0efa37a1bfce819eba5fe6a17d2fffd5.
-2016-11-21 10:15:54.534 rhythmChaser[2993:762753] Unzipping LiveSync folder. This could take a while...
-2016-11-21 10:15:54.594 rhythmChaser[2993:762753] Unzipped 38 entries in 58.816016ms.
-2016-11-21 10:15:54.595 rhythmChaser[2993:762753] tns_modules folder not livesynced. Using tns_modules from the already deployed bundle...
-NativeScript loaded bundle file:///System/Library/Frameworks/UIKit.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/Foundation.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/QuartzCore.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/AVFoundation.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/MapKit.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/SceneKit.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/QuickLook.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/CoreImage.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/iAd.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/IntentsUI.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/NotificationCenter.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/CoreSpotlight.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/Intents.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/CoreLocation.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/CoreGraphics.framework
-CONSOLE LOG file:///app/tns_modules/@angular/core/bundles/core.umd.js:78:20: Angular 2 is running in the development mode. Call enableProdMode() to enable the production mode.
-NativeScript loaded bundle file:///var/containers/Bundle/Application/D6861C71-E605-42DD-8A34-4D769C3B30EC/rhythmChaser.app/Frameworks/TNSWidgets.framework
-NativeScript loaded bundle file:///System/Library/Frameworks/CoreMotion.framework
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02606201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8846893310546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07965087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9986114501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0610809326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0045623779296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0074615478515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.997955322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.02154541015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9949493408203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.27423095703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0847625732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9403533935546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.45257568359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7182769775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0830535888671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5783538818359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.985443115234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7270050048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3793792724609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7582244873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0271148681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2116546630859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7676544189453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9278717041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.679473876953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8542022705078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8108062744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7470703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.109344482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0587921142578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.4952239990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1868896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.113616943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.49700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.1054534912109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.643157958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7382049560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.741363525390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1380767822265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.593170166015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3392333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.9860382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2191619873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7277679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5083770751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.67681884765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9539794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.217742919921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.716583251953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.08349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.2189178466796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.794830322265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.17938232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.6272430419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.85345458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6696624755859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.56011962890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.43890380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1735382080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0997161865234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.117584228515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.1692047119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.01824951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2502899169921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7907562255859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.532257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.05816650390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99542236328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.22760009765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0616607666015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.8679351806640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9387664794921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.260528564453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.834014892578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0027313232421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7123260498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.14227294921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.056304931640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0656890869140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0413055419921875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.964874267578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3723297119140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8689422607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.945770263671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6712493896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.464385986328125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99993896484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.639068603515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.5386505126953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.23681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.8046722412109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.24700927734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6477203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7101593017578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6037750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.266754150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.654510498046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.2738494873046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.813751220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0828094482421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.2566375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.9787750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7368011474609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5619964599609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.07391357421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0799102783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.917877197265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.178924560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.11419677734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5313720703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.2921905517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.83575439453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8057098388671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5905303955078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.3314666748046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.739898681640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0814361572265625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0977630615234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7830352783203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.7172088623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7735748291015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.779327392578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.49139404296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7808074951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.154022216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0865631103515625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.2118377685546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.5815582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.0561981201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0128326416015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.879608154296875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.988861083984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7671356201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1609039306640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7139129638671875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6170196533203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.487640380859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6079864501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.3888092041015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.5585174560546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.0388336181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5402679443359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1580963134765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.2820892333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -5.66375732421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.83172607421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.1781463623046875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.6116943359375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.0271759033203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.27716064453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.8540496826171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.21612548828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.81597900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.6239471435546875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.441253662109375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1759185791015625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0657501220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.912750244140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.7014312744140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.3747100830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.696990966796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.6314239501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.981475830078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.227203369140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.7340087890625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.49322509765625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.622772216796875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.072052001953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.07940673828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.251434326171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.9848175048828125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.1753082275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.6146240234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.5822906494140625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.99017333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0483856201171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.0385894775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1199951171875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.720489501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.298614501953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3677520751953125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.6077728271484375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.8171234130859375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.031982421875
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.19183349609375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.472900390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.90582275390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.0838470458984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.3078155517578125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -4.7039642333984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -2.1407012939453125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.44775390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 1.591461181640625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -6.8885040283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.5681915283203125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.288177490234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.3846282958984375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -3.4751129150390625
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.0626220703125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 0.32257080078125
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: 2.1045989990234375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -1.185302734375
-CONSOLE LOG file:///app/pages/game/game.component.js:49:32: -0.5594024658203125
+ -0.9784088134765625
+ -0.98175048828125
+ -0.9822998046875
+ -0.980560302734375
+ -0.9812774658203125
+ -0.9786224365234375
+ -0.9722442626953125
+ -0.9769439697265625
+ -0.977630615234375
+ -0.9796142578125
+ -0.9786529541015625
+ -0.9783782958984375
+ -0.9844818115234375
+ -0.9795684814453125
+ -0.98468017578125
+ -0.9810638427734375
+ -0.9812469482421875
+ -0.98272705078125
+ -0.9796142578125
+ -0.980072021484375
+ -0.980560302734375
+ -0.9803009033203125
+ -0.98223876953125
+ -0.9849700927734375
+ -0.975921630859375
+ -0.9778900146484375
+ -0.9788970947265625
+ -0.981781005859375
+ -0.983978271484375
+ -0.980560302734375
+ -0.982513427734375
+ -0.981048583984375
+ -0.9832305908203125
+ -0.9798126220703125
+ -0.9769134521484375
+ -0.9788818359375
+ -0.981292724609375
+ -0.9881591796875
+ -0.980316162109375
+ -0.9814910888671875
+ -0.980316162109375
+ -0.9793243408203125
+ -0.9791107177734375
+ -0.98052978515625
+ -0.97906494140625
+ -0.98077392578125
+ -0.9805755615234375
+ -0.9768829345703125
+ -0.983734130859375
+ -0.980560302734375
+ -0.978851318359375
+ -0.9815216064453125
+ -0.98248291015625
+ -0.981536865234375
+ -0.9810333251953125
+ -0.975921630859375
+ -0.9788665771484375
+ -0.9808197021484375
+ -0.9819793701171875
+ -0.982269287109375
+ -0.9803466796875
+ -0.980072021484375
+ -0.9812774658203125
+ -0.979827880859375
+ -0.9771881103515625
+ -0.9800567626953125
+ -0.98126220703125
+ -0.9788665771484375
+ -0.9810333251953125
+ -0.9790802001953125
+ -0.982757568359375
+ -0.9783935546875
+ -0.9808197021484375
+ -0.979827880859375
+ -0.980316162109375
+ -0.9801025390625
+ -0.983001708984375
+ -0.98223876953125
+ -0.9805755615234375
+ -0.9803466796875
+ -0.981536865234375
+ -0.9788818359375
+ -0.97906494140625
+ -0.9807891845703125
+ -0.9796142578125
+ -0.975189208984375
+ -0.9814910888671875
+ -0.9791259765625
+ -0.9773712158203125
+ -0.9798126220703125
+ -0.98516845703125
+ -0.993011474609375
+ -0.9878082275390625
+ -0.99151611328125
+ -0.9868927001953125
+ -0.9859161376953125
+ -0.98956298828125
+ -0.9861602783203125
+ -0.9839935302734375
+ -0.9837493896484375
+ -0.979034423828125
+ -0.9854278564453125
+ -0.982025146484375
+ -0.9814910888671875
+ -0.9795684814453125
+ -0.9822540283203125
+ -0.982513427734375
+ -0.9776763916015625
+ -0.9846649169921875
+ -0.9773712158203125
+ -0.9813079833984375
+ -0.983734130859375
+ -0.9737548828125
+ -0.9813385009765625
+ -0.983917236328125
+ -0.9893646240234375
+ -0.981719970703125
+ -0.9832763671875
+ -0.9837188720703125
+ -0.98345947265625
+ -0.9832916259765625
+ -0.977874755859375
+ -0.9824981689453125
+ -0.981536865234375
+ -0.977874755859375
+ -0.9815521240234375
+ -0.9839630126953125
+ -0.982269287109375
+ -0.97857666015625
+ -0.981048583984375
+ -0.980621337890625
+ -0.981781005859375
+ -0.9837646484375
+ -0.98272705078125
+ -0.98834228515625
+ -0.995513916015625
+ -0.964111328125
+ -1.009521484375
+ -0.97564697265625
+ -1.3462371826171875
+ -1.6519927978515625
+ -1.4134674072265625
+ -0.8432159423828125
+ -0.8463287353515625
+ -1.0004119873046875
+ -1.172271728515625
+ -0.9593658447265625
+ -0.8900146484375
+ -0.7747650146484375
+ -0.169830322265625
+ -0.7372283935546875
+ -1.430938720703125
+ -1.1231842041015625
+ -1.0101318359375
+ -1.753021240234375
+ -1.2520294189453125
+ -1.20880126953125
+ -1.25994873046875
+ -1.108123779296875
+ -1.1023101806640625
+ -1.2406158447265625
+ -1.32342529296875
+ -1.288970947265625
+ -1.1529693603515625
+ -1.034515380859375
+ -1.0978546142578125
+ -1.27056884765625
+ -1.3146209716796875
+ -1.1920013427734375
+ -1.2699432373046875
+ -1.16998291015625
+ -1.2024688720703125
+ -1.2131195068359375
+ -1.211700439453125
+ -1.2537078857421875
+ -1.102020263671875
+ -1.18353271484375
+ -1.2404632568359375
+ -1.2839508056640625
+ -1.1506195068359375
+ -1.1629791259765625
+ -1.25152587890625
+ -1.26531982421875
+ -1.3130340576171875
+ -1.4989013671875
+ -1.2577056884765625
+ -1.215911865234375
+ -1.1611785888671875
+ -1.1386260986328125
+ -1.096435546875
+ -1.1898956298828125
+ -1.20794677734375
+ -1.23358154296875
+ -1.3135528564453125
+ -1.2720184326171875
+ -1.2598724365234375
+ -1.358154296875
+ -1.21923828125
+ -1.1973876953125
+ -1.2079620361328125
+ -1.27685546875
+ -1.2722015380859375
+ -1.23309326171875
+ -1.1405792236328125
+ -1.01373291015625
+ -0.94671630859375
+ -0.7589569091796875
+ -0.9045257568359375
+ -0.937164306640625
+ -0.9878692626953125
+ -1.009857177734375
+ -1.0557708740234375
+ -0.9881439208984375
+ -1.00390625
+ -1.0817413330078125
+ -1.1014404296875
+ -0.8467559814453125
+ -0.7440948486328125
+ -0.7645416259765625
+ -1.03564453125
+ -1.025604248046875
+ -1.0267486572265625
+ -0.93450927734375
+ -0.9395294189453125
+ -1.376373291015625
+ -1.9027557373046875
+ -0.8356475830078125
+ 0.0547637939453125
+ 0.53009033203125
+ 0.0018768310546875
+ -1.801177978515625
+ -1.5063934326171875
+ -0.858795166015625
+ 0.0381927490234375
+ -0.157958984375
+ 0.4340362548828125
+ -2.5510711669921875
+ -1.6728363037109375
+ -1.407684326171875
+ -0.5074310302734375
+ 0.1315460205078125
+ -0.068939208984375
+ -2.173797607421875
+ -2.0330352783203125
+ -1.753570556640625
+ -0.72808837890625
+ 0.071746826171875
+ -0.31500244140625
+ -0.6510772705078125
+ -2.8564605712890625
+ -1.9962310791015625
+ -1.6625823974609375
+ -0.45654296875
+ 0.0920257568359375
+ 0.7364959716796875
+ -2.97125244140625
+ -1.9897003173828125
+ -1.879791259765625
+ -0.52569580078125
+ 0.7812652587890625
+ 0.33636474609375
+ -2.5120391845703125
+ -1.712188720703125
+ -2.099884033203125
+ -0.7316436767578125
+ 0.3003997802734375
+ -0.3192291259765625
+ -2.43548583984375
+ -1.5126495361328125
+ -2.0256500244140625
+ -0.5759124755859375
+ 0.3082122802734375
+ 0.0202789306640625
+ -2.6697540283203125
+ -1.53228759765625
+ -1.733184814453125
+ -1.2705841064453125
+ 0.0764617919921875
+ 0.0571441650390625
+ -0.3086700439453125
+ -1.665771484375
+ -1.648956298828125
+ -1.690673828125
+ 0.2158203125
+ 0.5764312744140625
+ 0.37762451171875
+ -1.9873199462890625
+ -1.9373321533203125
+ -1.5730743408203125
+ -0.3657379150390625
+ 0.6850738525390625
+ 0.1153564453125
+ -3.02703857421875
+ -1.7453460693359375
+ -1.8418731689453125
+ -0.9766845703125
+ 0.2364349365234375
+ 0.854583740234375
+ -1.75128173828125
+ -1.575225830078125
+ -1.893707275390625
+ -1.299163818359375
+ -0.1523284912109375
+ 0.31671142578125
+ -1.038909912109375
+ -1.8870391845703125
+ -1.6900177001953125
+ -0.97625732421875
+ 0.0603790283203125
+ 0.2928314208984375
+ -0.2270050048828125
+ -2.67584228515625
+ -1.434295654296875
+ -1.779998779296875
+ -0.6027984619140625
+ 0.5222015380859375
+ 0.630889892578125
+ -3.3192901611328125
+ -1.286376953125
+ -1.1238861083984375
+ -1.0189361572265625
+ -1.05474853515625
+ -1.2505950927734375
+ -1.2102508544921875
+ -1.1253814697265625
+ -1.0044097900390625
+ -0.96246337890625
+ -1.1118316650390625
+ -1.1515655517578125
+ -1.203857421875
+ -1.0204620361328125
+ -1.178741455078125
+ -1.1219329833984375
+ -1.0611724853515625
+ -1.17462158203125
+ -1.285797119140625
+ -1.3165435791015625
+ -1.2415313720703125
+ -1.2286529541015625
+ -1.1965484619140625
+ -0.9999847412109375
+ -1.121917724609375
+ -1.119415283203125
+ -1.213653564453125
+ -1.207763671875
+ -1.179168701171875
+ -1.2349853515625
+ -1.1724395751953125
+ -1.1933746337890625
+ -1.1837921142578125
+ -1.1893463134765625
+ -1.2688751220703125
+ -1.9718475341796875
+ -1.7183074951171875
+ -0.487884521484375
+ 0.1276397705078125
+ 2.11126708984375
+ -6.1761322021484375
+ -2.34906005859375
+ -2.2641448974609375
+ -0.427001953125
+ -0.12628173828125
+ 1.0824737548828125
+ -2.5833587646484375
+ -2.3605804443359375
+ -2.0628662109375
+ -0.32379150390625
+ 0.1007843017578125
+ 1.0185699462890625
+ -0.3691558837890625
+ -2.036651611328125
+ -2.09698486328125
+ -0.2323760986328125
+ 0.0871429443359375
+ 0.8604736328125
+ -0.663787841796875
+ -2.0350799560546875
+ -1.9246673583984375
+ -1.39794921875
+ -0.012420654296875
+ 0.241058349609375
+ 1.1691131591796875
+ -2.9671783447265625
+ -1.4734344482421875
+ -1.9491119384765625
+ -0.145111083984375
+ -0.201019287109375
+ 1.4460601806640625
+ -3.6416778564453125
+ -1.8968048095703125
+ -1.969451904296875
+ 0.0779876708984375
+ 0.0753326416015625
+ 1.426116943359375
+ -3.3085479736328125
+ -2.248260498046875
+ -1.83770751953125
+ -0.0452880859375
+ 0.0074920654296875
+ 1.426055908203125
+ -2.6424560546875
+ -2.0727996826171875
+ -1.70574951171875
+ -0.1780242919921875
+ 0.3067779541015625
+ 0.43084716796875
+ -2.3244171142578125
+ -1.7682647705078125
+ -0.3126068115234375
+ 0.0298614501953125
+ 0.9939727783203125
+ -0.361480712890625
+ -2.337310791015625
+ -1.2761077880859375
+ -0.0717620849609375
+ 0.52740478515625
+ 0.679534912109375
+ -0.1698150634765625
+ -2.2084808349609375
+ -1.8820037841796875
+ -0.7276763916015625
+ 0.171630859375
+ 0.96966552734375
+ -0.2464752197265625
+ -2.4486846923828125
+ -1.746063232421875
+ -0.2258758544921875
+ 0.3269805908203125
+ 0.968231201171875
+ -2.201995849609375
+ -2.0110931396484375
+ -1.860504150390625
+ -0.0904388427734375
+ 0.7971038818359375
+ 1.0948638916015625
+ -4.4182586669921875
+ -2.5377349853515625
+ -1.1806793212890625
+ 0.310150146484375
+ 0.9172515869140625
+ 0.9986572265625
+ -2.4240875244140625
+ -1.4011383056640625
+ -1.369964599609375
+ -1.4307708740234375
+ -1.213653564453125
+ -1.31378173828125
+ -1.2296142578125
+ -1.2445831298828125
+ -1.36846923828125
+ -1.2905426025390625
+ -1.396240234375
+ -1.30645751953125
+ -1.438629150390625
+ -1.312713623046875
+ -1.446197509765625
+ -1.283905029296875
+ -1.34722900390625
+ -1.3524322509765625
+ -1.0455322265625
+ -1.1108245849609375
+ -1.26739501953125
+ -1.1555633544921875
+ -1.1413421630859375
+ -1.094757080078125
+ -1.1302947998046875
+ -1.185791015625
+ -1.107879638671875
+ -1.156982421875
+ -1.18621826171875
+ -1.103973388671875
+ -1.0816192626953125
+ -1.296875
+ -1.1524658203125
+ -1.210113525390625
+ -1.09881591796875
+ -1.2093658447265625
+ -1.245269775390625
+ -1.1721343994140625
+ -1.4341888427734375
+ -1.5037841796875
+ -1.22479248046875
+ -1.5692901611328125
+ -1.135833740234375
+ -0.1388702392578125
+ 0.291168212890625
+ 0.8523101806640625
+ 2.0132598876953125
+ -3.240509033203125
+ -2.41107177734375
+ -2.1268768310546875
+ -0.5148468017578125
+ 0.5518341064453125
+ 1.2211151123046875
+ -1.861602783203125
+ -2.630767822265625
+ -1.5974578857421875
+ 0.0433197021484375
+ -0.081207275390625
+ -1.260833740234375
+ -2.1422882080078125
+ -2.6121826171875
+ -1.4098968505859375
+ -0.051666259765625
+ 0.40057373046875
+ 1.074249267578125
+ -2.221527099609375
+ -2.4392547607421875
+ -1.2638092041015625
+ -0.086456298828125
+ 0.4449005126953125
+ -2.1396636962890625
+ -2.1854095458984375
+ -2.6084136962890625
+ -1.3931427001953125
+ -0.135345458984375
+ 0.2410125732421875
+ 0.3292694091796875
+ -2.72052001953125
+ -2.6153717041015625
+ -1.30596923828125
+ -0.0349884033203125
+ 0.5397491455078125
+ -0.093475341796875
+ -2.68798828125
+ -2.350555419921875
+ -0.9419708251953125
+ 0.22723388671875
+ 0.56396484375
+ -4.336944580078125
+ -2.740478515625
+ -2.086883544921875
+ -0.3825225830078125
+ 0.1926116943359375
+ 0.4359283447265625
+ -3.9637298583984375
+ -3.2334136962890625
+ -1.7851715087890625
+ 0.133026123046875
+ 0.695098876953125
+ -3.68548583984375
+ -2.6436920166015625
+ -2.073760986328125
+ -0.7818603515625
+ 0.4242401123046875
+ 0.774139404296875
+ -2.8549957275390625
+ -2.267608642578125
+ -1.375885009765625
+ -0.393768310546875
+ 0.5796966552734375
+ 0.8931884765625
+ -2.989501953125
+ -2.129486083984375
+ -0.91400146484375
+ 0.21258544921875
+ 0.2898101806640625
+ -1.1983795166015625
+ -1.8079833984375
+ -2.12445068359375
+ -1.15625
+ 0.1442108154296875
+ 1.4527740478515625
+ -2.0802764892578125
+ -2.190093994140625
+ -1.7316436767578125
+ -0.687957763671875
+ 0.227996826171875
+ 1.84783935546875
+ -6.3001861572265625
+ -1.884979248046875
+ -1.3357086181640625
+ -1.5501708984375
+ -1.5490875244140625
+ -1.5410308837890625
+ -1.7352752685546875
+ -1.6862945556640625
+ -1.5039215087890625
+ -1.6209564208984375
+ -1.811553955078125
+ -1.5467071533203125
+ -1.65509033203125
+ -1.6567840576171875
+ -1.5370330810546875
+ -1.775970458984375
+ -1.6605682373046875
+ -1.7024078369140625
+ -1.7322998046875
+ -1.6272125244140625
+ -1.704254150390625
+ -1.71319580078125
+ -1.5774993896484375
+ -1.6315765380859375
+ -1.2825775146484375
+ -1.569732666015625
+ -1.4915008544921875
+ -1.4005889892578125
+ -1.1393585205078125
+ -0.9964141845703125
+ -0.9547882080078125
+ -0.932037353515625
+ -1.010986328125
+ -1.1568450927734375
+ -0.8629150390625
+ -0.95269775390625
+ -1.153045654296875
+ -1.032257080078125
+ -0.9696197509765625
+ -1.0586090087890625
+ -1.062835693359375
+ -1.0558319091796875
+ -1.055633544921875
+ -1.1089935302734375
